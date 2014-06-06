@@ -1,0 +1,426 @@
+<quiz>
+<question type="category">
+	<category><text>$course$/Kinematik_Lektion1_Einheiten</text></category>
+</question>
+
+<question type="calculated">
+	<name><text>Einheiten 1</text></name>
+	<questiontext format="html"><text><![CDATA[<p>"Wieviel Centimeter sind ${a}\,\rm{m}$?"</p>]]></text></questiontext>
+	<generalfeedback format="html"><text><![CDATA[<p>"Schön, dass Sie die Aufgabe bearbeiten"</p>]]></text></generalfeedback>
+	<defaultgrade>10</defaultgrade>
+	<penalty>0.1</penalty>
+	<hidden>0</hidden>
+	<synchronize>0</synchronize>
+	<single>0</single>
+	<answernumbering>abc</answernumbering>
+	<shuffleanswers>0</shuffleanswers>
+	<answer fraction="100">
+		<text>{a}*100</text>
+		<tolerance>0.1</tolerance>
+		<tolerancetype>2</tolerancetype>
+		<correctanswerformat>1</correctanswerformat>
+		<correctanswerlength>2</correctanswerlength>
+		<feedback format="html"><text><![CDATA[<p>"Die Antwort war richtig!"</p>]]></text></feedback>
+	</answer>
+	<unitgradingtype>0</unitgradingtype>
+	<unitpenalty>0.1000000</unitpenalty>
+	<showunits>3</showunits>
+	<unitsleft>0</unitsleft>
+	<dataset_definitions>
+	<dataset_definition>
+		<status><text>private</text></status>
+		<name><text>a</text></name>
+		<type>calculated</type>
+		<distribution><text>uniform</text></distribution>
+		<minimum><text>0</text></minimum>
+		<maximum><text>10.0</text></maximum>
+		<decimals><text>1</text></decimals>
+		<itemcount>2</itemcount>
+		<dataset_items>
+			<dataset_item><number>1</number><value>1.5</value></dataset_item>
+			<dataset_item><number>2</number><value>9.7</value></dataset_item>
+		</dataset_items>
+		<number_of_items>2</number_of_items>
+		 </dataset_definition>
+		 </dataset_definitions>
+</question>
+
+<question type="calculated">
+	<name><text>Einheiten 2</text></name>
+	<questiontext format="html"><text><![CDATA[<p>"Wieviel Stunden sind ${a}$ Tage?"</p>]]></text></questiontext>
+	<generalfeedback format="html"><text><![CDATA[<p>"Schön, dass Sie die Aufgabe bearbeiten"</p>]]></text></generalfeedback>
+	<defaultgrade>10</defaultgrade>
+	<penalty>0.1</penalty>
+	<hidden>0</hidden>
+	<synchronize>0</synchronize>
+	<single>0</single>
+	<answernumbering>abc</answernumbering>
+	<shuffleanswers>0</shuffleanswers>
+	<answer fraction="100">
+		<text>{a}*24</text>
+		<tolerance>0.1</tolerance>
+		<tolerancetype>2</tolerancetype>
+		<correctanswerformat>1</correctanswerformat>
+		<correctanswerlength>2</correctanswerlength>
+		<feedback format="html"><text><![CDATA[<p>"Die Antwort war richtig!"</p>]]></text></feedback>
+	</answer>
+	<unitgradingtype>0</unitgradingtype>
+	<unitpenalty>0.1000000</unitpenalty>
+	<showunits>3</showunits>
+	<unitsleft>0</unitsleft>
+	<dataset_definitions>
+	<dataset_definition>
+		<status><text>private</text></status>
+		<name><text>a</text></name>
+		<type>calculated</type>
+		<distribution><text>uniform</text></distribution>
+		<minimum><text>0</text></minimum>
+		<maximum><text>10.0</text></maximum>
+		<decimals><text>1</text></decimals>
+		<itemcount>2</itemcount>
+		<dataset_items>
+			<dataset_item><number>1</number><value>5.6</value></dataset_item>
+			<dataset_item><number>2</number><value>2.7</value></dataset_item>
+		</dataset_items>
+		<number_of_items>2</number_of_items>
+		 </dataset_definition>
+		 </dataset_definitions>
+</question>
+
+<question type="calculated">
+	<name><text>Einheiten 3</text></name>
+	<questiontext format="html"><text><![CDATA[<p>"Wieviel Sekunden sind ${a}$ Tage?"</p>]]></text></questiontext>
+	<generalfeedback format="html"><text><![CDATA[<p>"Schön, dass Sie die Aufgabe bearbeiten"</p>]]></text></generalfeedback>
+	<defaultgrade>10</defaultgrade>
+	<penalty>0.1</penalty>
+	<hidden>0</hidden>
+	<synchronize>0</synchronize>
+	<single>0</single>
+	<answernumbering>abc</answernumbering>
+	<shuffleanswers>0</shuffleanswers>
+	<answer fraction="100">
+		<text>{a}*24*60*60</text>
+		<tolerance>0.1</tolerance>
+		<tolerancetype>2</tolerancetype>
+		<correctanswerformat>1</correctanswerformat>
+		<correctanswerlength>2</correctanswerlength>
+		<feedback format="html"><text><![CDATA[<p>"Die Antwort war richtig!"</p>]]></text></feedback>
+	</answer>
+	<unitgradingtype>0</unitgradingtype>
+	<unitpenalty>0.1000000</unitpenalty>
+	<showunits>3</showunits>
+	<unitsleft>0</unitsleft>
+	<dataset_definitions>
+	<dataset_definition>
+		<status><text>private</text></status>
+		<name><text>a</text></name>
+		<type>calculated</type>
+		<distribution><text>uniform</text></distribution>
+		<minimum><text>0</text></minimum>
+		<maximum><text>10.0</text></maximum>
+		<decimals><text>1</text></decimals>
+		<itemcount>2</itemcount>
+		<dataset_items>
+			<dataset_item><number>1</number><value>0.8</value></dataset_item>
+			<dataset_item><number>2</number><value>0.7</value></dataset_item>
+		</dataset_items>
+		<number_of_items>2</number_of_items>
+		 </dataset_definition>
+		 </dataset_definitions>
+</question>
+
+<question type="calculated">
+	<name><text>Einheiten 4</text></name>
+	<questiontext format="html"><text><![CDATA[<p>"Wieviel Kilometer pro Stunde sind ${a} \rm{ms}^{-1}$ ?"</p>]]></text></questiontext>
+	<generalfeedback format="html"><text><![CDATA[<p>"Schön, dass Sie die Aufgabe bearbeiten"</p>]]></text></generalfeedback>
+	<defaultgrade>10</defaultgrade>
+	<penalty>0.1</penalty>
+	<hidden>0</hidden>
+	<synchronize>0</synchronize>
+	<single>0</single>
+	<answernumbering>abc</answernumbering>
+	<shuffleanswers>0</shuffleanswers>
+	<answer fraction="100">
+		<text>{a}*3.6</text>
+		<tolerance>0.1</tolerance>
+		<tolerancetype>2</tolerancetype>
+		<correctanswerformat>1</correctanswerformat>
+		<correctanswerlength>2</correctanswerlength>
+		<feedback format="html"><text><![CDATA[<p>"Die Antwort war richtig!"</p>]]></text></feedback>
+	</answer>
+	<unitgradingtype>0</unitgradingtype>
+	<unitpenalty>0.1000000</unitpenalty>
+	<showunits>3</showunits>
+	<unitsleft>0</unitsleft>
+	<dataset_definitions>
+	<dataset_definition>
+		<status><text>private</text></status>
+		<name><text>a</text></name>
+		<type>calculated</type>
+		<distribution><text>uniform</text></distribution>
+		<minimum><text>0</text></minimum>
+		<maximum><text>10.0</text></maximum>
+		<decimals><text>1</text></decimals>
+		<itemcount>2</itemcount>
+		<dataset_items>
+			<dataset_item><number>1</number><value>9.7</value></dataset_item>
+			<dataset_item><number>2</number><value>1.6</value></dataset_item>
+		</dataset_items>
+		<number_of_items>2</number_of_items>
+		 </dataset_definition>
+		 </dataset_definitions>
+</question>
+
+<question type="calculated">
+	<name><text>Einheiten 5</text></name>
+	<questiontext format="html"><text><![CDATA[<p>"Wieviel Stunden sind ${a}$ Sekunden?"</p>]]></text></questiontext>
+	<generalfeedback format="html"><text><![CDATA[<p>"Schön, dass Sie die Aufgabe bearbeiten"</p>]]></text></generalfeedback>
+	<defaultgrade>10</defaultgrade>
+	<penalty>0.1</penalty>
+	<hidden>0</hidden>
+	<synchronize>0</synchronize>
+	<single>0</single>
+	<answernumbering>abc</answernumbering>
+	<shuffleanswers>0</shuffleanswers>
+	<answer fraction="100">
+		<text>{a}/3600</text>
+		<tolerance>0.1</tolerance>
+		<tolerancetype>2</tolerancetype>
+		<correctanswerformat>1</correctanswerformat>
+		<correctanswerlength>2</correctanswerlength>
+		<feedback format="html"><text><![CDATA[<p>"Die Antwort war richtig!"</p>]]></text></feedback>
+	</answer>
+	<unitgradingtype>0</unitgradingtype>
+	<unitpenalty>0.1000000</unitpenalty>
+	<showunits>3</showunits>
+	<unitsleft>0</unitsleft>
+	<dataset_definitions>
+	<dataset_definition>
+		<status><text>private</text></status>
+		<name><text>a</text></name>
+		<type>calculated</type>
+		<distribution><text>uniform</text></distribution>
+		<minimum><text>3600</text></minimum>
+		<maximum><text>36000</text></maximum>
+		<decimals><text>1</text></decimals>
+		<itemcount>2</itemcount>
+		<dataset_items>
+			<dataset_item><number>1</number><value>30416.8</value></dataset_item>
+			<dataset_item><number>2</number><value>29974.1</value></dataset_item>
+		</dataset_items>
+		<number_of_items>2</number_of_items>
+		 </dataset_definition>
+		 </dataset_definitions>
+</question>
+
+<question type="calculated">
+	<name><text>Einheiten 6</text></name>
+	<questiontext format="html"><text><![CDATA[<p>"Wieviel Kilometer sind ${a}$ cm?"</p>]]></text></questiontext>
+	<generalfeedback format="html"><text><![CDATA[<p>"Schön, dass Sie die Aufgabe bearbeiten"</p>]]></text></generalfeedback>
+	<defaultgrade>10</defaultgrade>
+	<penalty>0.1</penalty>
+	<hidden>0</hidden>
+	<synchronize>0</synchronize>
+	<single>0</single>
+	<answernumbering>abc</answernumbering>
+	<shuffleanswers>0</shuffleanswers>
+	<answer fraction="100">
+		<text>{a}/1000/100</text>
+		<tolerance>0.1</tolerance>
+		<tolerancetype>2</tolerancetype>
+		<correctanswerformat>1</correctanswerformat>
+		<correctanswerlength>2</correctanswerlength>
+		<feedback format="html"><text><![CDATA[<p>"Die Antwort war richtig!"</p>]]></text></feedback>
+	</answer>
+	<unitgradingtype>0</unitgradingtype>
+	<unitpenalty>0.1000000</unitpenalty>
+	<showunits>3</showunits>
+	<unitsleft>0</unitsleft>
+	<dataset_definitions>
+	<dataset_definition>
+		<status><text>private</text></status>
+		<name><text>a</text></name>
+		<type>calculated</type>
+		<distribution><text>uniform</text></distribution>
+		<minimum><text>10000</text></minimum>
+		<maximum><text>1000000</text></maximum>
+		<decimals><text>1</text></decimals>
+		<itemcount>2</itemcount>
+		<dataset_items>
+			<dataset_item><number>1</number><value>494467.4</value></dataset_item>
+			<dataset_item><number>2</number><value>369638.8</value></dataset_item>
+		</dataset_items>
+		<number_of_items>2</number_of_items>
+		 </dataset_definition>
+		 </dataset_definitions>
+</question>
+
+<question type="calculated">
+	<name><text>Einheiten 7</text></name>
+	<questiontext format="html"><text><![CDATA[<p>"Wieviel Meter pro Sekunde sind ${a}\,\rm{kmh}^{-1}$?"</p>]]></text></questiontext>
+	<generalfeedback format="html"><text><![CDATA[<p>"Schön, dass Sie die Aufgabe bearbeiten"</p>]]></text></generalfeedback>
+	<defaultgrade>10</defaultgrade>
+	<penalty>0.1</penalty>
+	<hidden>0</hidden>
+	<synchronize>0</synchronize>
+	<single>0</single>
+	<answernumbering>abc</answernumbering>
+	<shuffleanswers>0</shuffleanswers>
+	<answer fraction="100">
+		<text>{a}/3.6</text>
+		<tolerance>0.1</tolerance>
+		<tolerancetype>2</tolerancetype>
+		<correctanswerformat>1</correctanswerformat>
+		<correctanswerlength>2</correctanswerlength>
+		<feedback format="html"><text><![CDATA[<p>"Die Antwort war richtig!"</p>]]></text></feedback>
+	</answer>
+	<unitgradingtype>0</unitgradingtype>
+	<unitpenalty>0.1000000</unitpenalty>
+	<showunits>3</showunits>
+	<unitsleft>0</unitsleft>
+	<dataset_definitions>
+	<dataset_definition>
+		<status><text>private</text></status>
+		<name><text>a</text></name>
+		<type>calculated</type>
+		<distribution><text>uniform</text></distribution>
+		<minimum><text>10</text></minimum>
+		<maximum><text>100</text></maximum>
+		<decimals><text>1</text></decimals>
+		<itemcount>2</itemcount>
+		<dataset_items>
+			<dataset_item><number>1</number><value>61.5</value></dataset_item>
+			<dataset_item><number>2</number><value>78.5</value></dataset_item>
+		</dataset_items>
+		<number_of_items>2</number_of_items>
+		 </dataset_definition>
+		 </dataset_definitions>
+</question>
+
+<question type="calculated">
+	<name><text>Einheiten 8</text></name>
+	<questiontext format="html"><text><![CDATA[<p>"Wieviel Kilogramm sind ${a}$ g?"</p>]]></text></questiontext>
+	<generalfeedback format="html"><text><![CDATA[<p>"Schön, dass Sie die Aufgabe bearbeiten"</p>]]></text></generalfeedback>
+	<defaultgrade>10</defaultgrade>
+	<penalty>0.1</penalty>
+	<hidden>0</hidden>
+	<synchronize>0</synchronize>
+	<single>0</single>
+	<answernumbering>abc</answernumbering>
+	<shuffleanswers>0</shuffleanswers>
+	<answer fraction="100">
+		<text>{a}/1000</text>
+		<tolerance>0.1</tolerance>
+		<tolerancetype>2</tolerancetype>
+		<correctanswerformat>1</correctanswerformat>
+		<correctanswerlength>2</correctanswerlength>
+		<feedback format="html"><text><![CDATA[<p>"Die Antwort war richtig!"</p>]]></text></feedback>
+	</answer>
+	<unitgradingtype>0</unitgradingtype>
+	<unitpenalty>0.1000000</unitpenalty>
+	<showunits>3</showunits>
+	<unitsleft>0</unitsleft>
+	<dataset_definitions>
+	<dataset_definition>
+		<status><text>private</text></status>
+		<name><text>a</text></name>
+		<type>calculated</type>
+		<distribution><text>uniform</text></distribution>
+		<minimum><text>2000</text></minimum>
+		<maximum><text>10000</text></maximum>
+		<decimals><text>1</text></decimals>
+		<itemcount>2</itemcount>
+		<dataset_items>
+			<dataset_item><number>1</number><value>3735.1</value></dataset_item>
+			<dataset_item><number>2</number><value>8403.3</value></dataset_item>
+		</dataset_items>
+		<number_of_items>2</number_of_items>
+		 </dataset_definition>
+		 </dataset_definitions>
+</question>
+
+<question type="calculated">
+	<name><text>Einheiten 9</text></name>
+	<questiontext format="html"><text><![CDATA[<p>"Wieviel Kilogramm sind ${a}$ t?"</p>]]></text></questiontext>
+	<generalfeedback format="html"><text><![CDATA[<p>"Schön, dass Sie die Aufgabe bearbeiten"</p>]]></text></generalfeedback>
+	<defaultgrade>10</defaultgrade>
+	<penalty>0.1</penalty>
+	<hidden>0</hidden>
+	<synchronize>0</synchronize>
+	<single>0</single>
+	<answernumbering>abc</answernumbering>
+	<shuffleanswers>0</shuffleanswers>
+	<answer fraction="100">
+		<text>{a}*1000</text>
+		<tolerance>0.1</tolerance>
+		<tolerancetype>2</tolerancetype>
+		<correctanswerformat>1</correctanswerformat>
+		<correctanswerlength>2</correctanswerlength>
+		<feedback format="html"><text><![CDATA[<p>"Die Antwort war richtig!"</p>]]></text></feedback>
+	</answer>
+	<unitgradingtype>0</unitgradingtype>
+	<unitpenalty>0.1000000</unitpenalty>
+	<showunits>3</showunits>
+	<unitsleft>0</unitsleft>
+	<dataset_definitions>
+	<dataset_definition>
+		<status><text>private</text></status>
+		<name><text>a</text></name>
+		<type>calculated</type>
+		<distribution><text>uniform</text></distribution>
+		<minimum><text>2</text></minimum>
+		<maximum><text>10</text></maximum>
+		<decimals><text>1</text></decimals>
+		<itemcount>2</itemcount>
+		<dataset_items>
+			<dataset_item><number>1</number><value>5.6</value></dataset_item>
+			<dataset_item><number>2</number><value>3.4</value></dataset_item>
+		</dataset_items>
+		<number_of_items>2</number_of_items>
+		 </dataset_definition>
+		 </dataset_definitions>
+</question>
+
+<question type="calculated">
+	<name><text>Einheiten 10</text></name>
+	<questiontext format="html"><text><![CDATA[<p>"Wieviel Kilometer pro Stunde sind ${a}$ Meter pro Minute?"</p>]]></text></questiontext>
+	<generalfeedback format="html"><text><![CDATA[<p>"Schön, dass Sie die Aufgabe bearbeiten"</p>]]></text></generalfeedback>
+	<defaultgrade>10</defaultgrade>
+	<penalty>0.1</penalty>
+	<hidden>0</hidden>
+	<synchronize>0</synchronize>
+	<single>0</single>
+	<answernumbering>abc</answernumbering>
+	<shuffleanswers>0</shuffleanswers>
+	<answer fraction="100">
+		<text>{a}/60*1000</text>
+		<tolerance>0.1</tolerance>
+		<tolerancetype>2</tolerancetype>
+		<correctanswerformat>1</correctanswerformat>
+		<correctanswerlength>2</correctanswerlength>
+		<feedback format="html"><text><![CDATA[<p>"Die Antwort war richtig!"</p>]]></text></feedback>
+	</answer>
+	<unitgradingtype>0</unitgradingtype>
+	<unitpenalty>0.1000000</unitpenalty>
+	<showunits>3</showunits>
+	<unitsleft>0</unitsleft>
+	<dataset_definitions>
+	<dataset_definition>
+		<status><text>private</text></status>
+		<name><text>a</text></name>
+		<type>calculated</type>
+		<distribution><text>uniform</text></distribution>
+		<minimum><text>20</text></minimum>
+		<maximum><text>100</text></maximum>
+		<decimals><text>1</text></decimals>
+		<itemcount>2</itemcount>
+		<dataset_items>
+			<dataset_item><number>1</number><value>29.7</value></dataset_item>
+			<dataset_item><number>2</number><value>38.7</value></dataset_item>
+		</dataset_items>
+		<number_of_items>2</number_of_items>
+		 </dataset_definition>
+		 </dataset_definitions>
+</question>
+
+</quiz>

@@ -1,0 +1,14 @@
+[Flächenberechnung 1]
+Text="Länge $l={a}\,m$, Breite $b={b}$. Wie groß ist die Fläche im $m^2$?"
+Feedback0="Schön, dass Sie die Aufgabe bearbeiten"
+Feedback1="Die Antwort war richtig!"
+Hint="Hinweis1: Mehr anstrengen"
+Hint="Hinweis2: Noch mehr anstrengen"
+Antwort={a}*{b}
+Wertebereich="a=(0,10.0); b=(0.0,5)"
+#Punkte=10 (default)
+#Abzug=0.1 (default)
+#Toleranz="0.1" (default)
+#Toleranztyp=2 (default)
+#Datensatz=2 (default)
+
