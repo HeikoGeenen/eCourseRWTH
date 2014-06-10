@@ -1,0 +1,42 @@
+set terminal png;
+set grid ytics mytics  # draw lines for each ytics and mytics
+set grid xtics mxtics  # draw lines for each ytics and 
+set mxtics 5
+set mytics 2
+set grid;
+set size square;
+set zeroaxis;
+set yrange [-5:5];
+set xrange [-10:10];
+set xlabel 'Zeit [Sekunden]';
+set ylabel 'Position [Meter]';
+set output 'simple_xt1.png';
+plot 2+2*x title "Ortskurve";
+set output 'simple_xt2.png';
+plot 2*x title "Ortskurve";
+set output 'simple_xt3.png';
+plot 1-x title "Ortskurve";
+set output 'simple_xt4.png';
+plot 3+0.5*x title "Ortskurve";
+set output 'simple_xt5.png';
+plot 0.5*x title "Ortskurve";
+set output 'simple_xt6.png';
+plot -0.5*x+1 title "Ortskurve";
+set output 'simple_xt7.png';
+plot 1 title "Ortskurve";
+# Komplexe
+set output 'complex_xt1.png';
+plot x<0?-x:x title "Ortskurve";
+set output 'complex_xt2.png';
+plot x<-1?-x:(x<1?1:x) title "Ortskurve";
+set output 'complex_xt3.png';
+plot x<-1?-x:(x<1?1:-x+2) title "Ortskurve";
+set output 'complex_xt4.png';
+plot x<-1?x+2:(x<1?1:-x+2) title "Ortskurve";
+set output 'complex_xt5.png';
+plot x<0?-2:x-2 title "Ortskurve";
+set output 'complex_xt6.png';
+plot x<0?2:(x<2?x+2:6-x) title "Ortskurve";
+set output 'complex_xt7.png';
+plot x<2?0.5*x+1:x title "Ortskurve";
+quit;

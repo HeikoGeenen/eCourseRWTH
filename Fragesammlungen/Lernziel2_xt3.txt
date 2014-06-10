@@ -1,0 +1,62 @@
+// question: 0  name: Switch category to $course$/Standard für V1.0
+$CATEGORY: $course$/Lektion2_xt3
+
+// question: 1  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/complex_xt1.png" alt\="" width\="320" height\="240" /> Was passiert? </p>{
+	=<p>Der Wagen fährt mit -1 m/s rückwärts. Zum Startzeitpunkt befindet er sich an der Position 0 m. Dann fährt er mit konstant 1 m/s vorwärts weiter.</p>
+	~<p>Der Wagen ruht, bis er zum Startzeitpunkt an der Position 0 mit der Geschwindigkeit -1 m/s  rückwärts los fährt.</p>
+	~<p>Der Wagen bremst mit einer konstanten Beschleunigung ab. So dass er zur Zeit t\=0s an der Position 0 zum stehen kommt. Dann beschleunigt er wieder erneut.</p>
+	~<p>Der Wagen fährt konstant mit 1 m/s vorwärts und ist zum Startzeitpunkt an der Position 0.</p>
+}
+
+// question: 2  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/complex_xt2.png" alt\="" width\="320" height\="240" /> Was passiert? </p>{
+	=<p>Der Wagen fährt mit -1 m/s rückwärts. Eine Sekunde vor dem Startzeitpunkt hält er an der Position 1m an. Nach 2 Sekunden fährt er vorwärts mit 1 m/s.</p>
+	~<p>Der Wagen fährt mit 1 m/s vorwärts, 1 Sekunde vor dem Startzeitpunkt an der Position 0 wartet er 2 Sekunden und fährt dann  mit der Geschwindigkeit -1 m/s  rückwärts los fährt.</p>
+	~<p>Der Wagen bremst mit einer konstanten Beschleunigung ab. So dass er zur Zeit t\=-1s an der Position 1 zum stehen kommt. Dann beschleunigt er wieder erneut.</p>
+	~<p>Der Wagen fährt konstant mit 1 m/s rückwärts und zum Startzeitpunkt fährt er mit 1 m/s vorwärts.</p>
+}
+
+// question: 3  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/complex_xt3.png" alt\="" width\="320" height\="240" /> Was passiert? </p>{
+	=<p>Der Wagen fährt mit -1 m/s rückwärts. Eine Sekunde vor dem Startzeitpunkt hält er an, wartet 2 Sekunden und fährt dann weiter mit 1 m/s in diesselbe Richtung.</p>
+	~<p>Der Wagen fährt mit 1 m/s vorwärts, 1 Sekunde vor dem Startzeitpunkt an der Position 0 wartet er 2 Sekunden und fährt dann  mit der Geschwindigkeit -1 m/s  rückwärts los fährt.</p>
+	~<p>Der Wagen bremst mit einer konstanten Beschleunigung ab. So dass er zur Zeit t\=-1s an der Position 1 zum stehen kommt. Dann beschleunigt er wieder erneut.</p>
+	~<p>Der Wagen fährt konstant mit 1 m/s rückwärts und zum Startzeitpunkt fährt er mit 1 m/s vorwärts.</p>
+}
+
+// question: 4  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/complex_xt4.png" alt\="" width\="320" height\="240" /> Was passiert? </p>{
+	=<p>Der Wagen fährt mit 1 m/s vorwärts. Eine Sekunde vor dem Startzeitpunkt hält er bei der Position 1m an, wartet 2 Sekunden und fährt dann weiter mit 1 m/s in die entgegen gesetzte Richtung.</p>
+	~<p>Der Wagen fährt mit 1 m/s vorwärts, 1 Sekunde vor dem Startzeitpunkt an der Position 0 wartet er 2 Sekunden und fährt dann  mit der Geschwindigkeit -1 m/s  rückwärts los fährt.</p>
+	~<p>Der Wagen bremst mit einer konstanten Beschleunigung ab. So dass er zur Zeit t\=-1s an der Position 1 zum stehen kommt. Dann beschleunigt er wieder erneut.</p>
+	~<p>Der Wagen fährt konstant mit 1 m/s rückwärts und zum Startzeitpunkt fährt er mit 1 m/s vorwärts.</p>
+}
+
+// question: 5  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/complex_xt5.png" alt\="" width\="320" height\="240" /> Was passiert? </p>{
+	=<p>Der Wagen ruht bis zum Startzeitpunkt an der Postition x=0m. Dann fährt er mit 1m/s los.</p>
+	~<p>Der Wagen fährt mit 1 m/s vorwärts, 1 Sekunde vor dem Startzeitpunkt an der Position 0 wartet er 2 Sekunden und fährt dann  mit der Geschwindigkeit -1 m/s  rückwärts los fährt.</p>
+	~<p>Der Wagen bremst mit einer konstanten Beschleunigung ab. So dass er zur Zeit t\=-1s an der Position 1 zum stehen kommt. Dann beschleunigt er wieder erneut.</p>
+	~<p>Der Wagen fährt konstant mit 1 m/s rückwärts und zum Startzeitpunkt fährt er mit 1 m/s vorwärts.</p>
+}
+
+// question: 6  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/complex_xt6.png" alt\="" width\="320" height\="240" /> Was passiert? </p>{
+	=<p>Der Wagen ruht bis zum Startzeitpunkt an der Postition x=2m. Dann fährt er mit 1m/s los. Nach 2 Sekunden wechselt er die Fahrtrichtung.</p>
+	~<p>Der Wagen fährt mit 1 m/s vorwärts, 1 Sekunde vor dem Startzeitpunkt an der Position 0 wartet er 2 Sekunden und fährt dann  mit der Geschwindigkeit -1 m/s  rückwärts los fährt.</p>
+	~<p>Der Wagen bremst mit einer konstanten Beschleunigung ab. So dass er zur Zeit t\=-1s an der Position 1 zum stehen kommt. Dann beschleunigt er wieder erneut.</p>
+	~<p>Der Wagen fährt konstant mit 1 m/s rückwärts und zum Startzeitpunkt fährt er mit 1 m/s vorwärts.</p>
+}
+
+// question: 7  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/complex_xt7.png" alt\="" width\="320" height\="240" /> Was passiert? </p>{
+	=<p>Der Wagen fährt konstant mit 0.5m/s. Zur Zeit t=2 Sekunden verdoppelt er seine Geschwindigkeit.</p>
+	~<p>Der Wagen fährt mit 1 m/s vorwärts, 1 Sekunde vor dem Startzeitpunkt an der Position 0 wartet er 2 Sekunden und fährt dann  mit der Geschwindigkeit -1 m/s  rückwärts los fährt.</p>
+	~<p>Der Wagen bremst mit einer konstanten Beschleunigung ab. So dass er zur Zeit t\=-1s an der Position 1 zum stehen kommt. Dann beschleunigt er wieder erneut.</p>
+	~<p>Der Wagen fährt konstant mit 1 m/s rückwärts und zum Startzeitpunkt fährt er mit 1 m/s vorwärts.</p>
+}
+
+
+
+

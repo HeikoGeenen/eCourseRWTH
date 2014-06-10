@@ -1,0 +1,98 @@
+// question: 0  name: Switch category to $course$/Standard für V1.0
+$CATEGORY: $course$/Lektion2_xt1
+
+// question: 1  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/simple_xt1.png" alt\="" width\="320" height\="240" /> Wie groß ist die Geschwindigkeit</p>{
+        = v ist 2 Meter pro Sekunde
+	~ v ist -2 Meter pro Sekunde
+	~ v ist 0.5 Meter pro Sekunde
+	~ v ist -0.5 Meter pro Sekunde
+	~ v ist 1 Meter pro Sekunde
+	~ v ist -1 Meter pro Sekunde
+	~ v ist 4 Meter pro Sekunde
+	~ v ist -4 Meter pro Sekunde
+	~ Der Wagen ruht
+}
+
+// question: 2  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/simple_xt2.png" alt\="" width\="320" height\="240" /> Wie groß ist die Geschwindigkeit</p>{
+        = v ist 2 Meter pro Sekunde
+	~ v ist -2 Meter pro Sekunde
+	~ v ist 0.5 Meter pro Sekunde
+	~ v ist -0.5 Meter pro Sekunde
+	~ v ist 1 Meter pro Sekunde
+	~ v ist -1 Meter pro Sekunde
+	~ v ist 4 Meter pro Sekunde
+	~ v ist -4 Meter pro Sekunde
+	~ Der Wagen ruht
+}
+
+// question: 3  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/simple_xt3.png" alt\="" width\="320" height\="240" /> Wie groß ist die Geschwindigkeit</p>{
+        = v ist -1 Meter pro Sekunde
+	~ v ist 1 Meter pro Sekunde
+	~ v ist 2 Meter pro Sekunde
+	~ v ist -2 Meter pro Sekunde
+	~ v ist -0.5 Meter pro Sekunde
+	~ v ist 0.5 Meter pro Sekunde
+	~ v ist 4 Meter pro Sekunde
+	~ v ist -4 Meter pro Sekunde
+	~ Der Wagen ruht
+}
+
+// question: 4  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/simple_xt4.png" alt\="" width\="320" height\="240" /> Wie groß ist die Geschwindigkeit</p>{
+        = v ist 0.5 Meter pro Sekunde
+	~ v ist -0.5 Meter pro Sekunde
+	~ v ist 1 Meter pro Sekunde
+	~ v ist -1 Meter pro Sekunde
+	~ v ist 2 Meter pro Sekunde
+	~ v ist -2 Meter pro Sekunde
+	~ v ist 4 Meter pro Sekunde
+	~ v ist -4 Meter pro Sekunde
+	~ Der Wagen ruht
+}
+
+// question: 5  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/simple_xt5.png" alt\="" width\="320" height\="240" /> Wie groß ist die Geschwindigkeit</p>{
+        = v ist 0.5 Meter pro Sekunde
+	~ v ist -0.5 Meter pro Sekunde
+	~ v ist 1 Meter pro Sekunde
+	~ v ist -1 Meter pro Sekunde
+	~ v ist 2 Meter pro Sekunde
+	~ v ist -2 Meter pro Sekunde
+	~ v ist 4 Meter pro Sekunde
+	~ v ist -4 Meter pro Sekunde
+	~ Der Wagen ruht
+}
+
+
+// question: 6  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/simple_xt6.png" alt\="" width\="320" height\="240" /> Wie groß ist die Geschwindigkeit</p>{
+        = v ist -0.5 Meter pro Sekunde
+	~ v ist 0.5 Meter pro Sekunde
+	~ v ist 1 Meter pro Sekunde
+	~ v ist -1 Meter pro Sekunde
+	~ v ist 2 Meter pro Sekunde
+	~ v ist -2 Meter pro Sekunde
+	~ v ist 4 Meter pro Sekunde
+	~ v ist -4 Meter pro Sekunde
+	~ Der Wagen ruht
+}
+
+// question: 7  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/simple_xt6.png" alt\="" width\="320" height\="240" /> Wie groß ist die Geschwindigkeit</p>{
+        = Der Wagen ruht
+	~ v ist -0.5 Meter pro Sekunde
+	~ v ist 0.5 Meter pro Sekunde
+	~ v ist 1 Meter pro Sekunde
+	~ v ist -1 Meter pro Sekunde
+	~ v ist 2 Meter pro Sekunde
+	~ v ist -2 Meter pro Sekunde
+	~ v ist 4 Meter pro Sekunde
+	~ v ist -4 Meter pro Sekunde
+}
+
+
+
+

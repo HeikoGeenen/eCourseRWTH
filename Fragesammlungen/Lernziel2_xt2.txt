@@ -1,0 +1,83 @@
+// question: 0  name: Switch category to $course$/Standard für V1.0
+$CATEGORY: $course$/Lektion2_xt2
+
+// question: 1  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/simple_xt1.png" alt\="" width\="320" height\="240" /> Welche Funktion beschreibt die abgebildete Ortskurve? </p>{
+        = x(t) \= 2 m/s t + 2 m
+	~ x(t) \= 2 m/s t
+	~ x(t) \= 1 m - 1 m/s t
+	~ x(t) \= 3 m + 0.5 m/s t
+	~ x(t) \= 0.5 m/s t
+	~ x(t) \= 1 m - 0.5 m/s t
+	~ x(t) \= 1 m 
+}
+
+// question: 2  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/simple_xt2.png" alt\="" width\="320" height\="240" /> Welche Funktion beschreibt die abgebildete Ortskurve? </p>{
+        = x(t) \= 2 m/s t
+	~ x(t) \= 2 m/s t + 2 m
+	~ x(t) \= 1 m - 1 m/s t
+	~ x(t) \= 3 m + 0.5 m/s t
+	~ x(t) \= 0.5 m/s t
+	~ x(t) \= 1 m - 0.5 m/s t
+	~ x(t) \= 1 m 
+}
+
+// question: 3  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/simple_xt3.png" alt\="" width\="320" height\="240" /> Welche Funktion beschreibt die abgebildete Ortskurve? </p>{
+        = x(t) \= 1 m - 1 m/s t
+	~ x(t) \= 2 m/s t
+	~ x(t) \= 2 m/s t + 2 m
+	~ x(t) \= 3 m + 0.5 m/s t
+	~ x(t) \= 0.5 m/s t
+	~ x(t) \= 1 m - 0.5 m/s t
+	~ x(t) \= 1 m 
+}
+
+// question: 4  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/simple_xt4.png" alt\="" width\="320" height\="240" /> Welche Funktion beschreibt die abgebildete Ortskurve? </p>{
+        = x(t) \= 3 m + 0.5 m/s t
+	~ x(t) \= 2 m/s t
+	~ x(t) \= 1 m - 1 m/s t
+	~ x(t) \= 2 m/s t + 2 m
+	~ x(t) \= 0.5 m/s t
+	~ x(t) \= 1 m - 0.5 m/s t
+	~ x(t) \= 1 m 
+}
+
+// question: 5  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/simple_xt5.png" alt\="" width\="320" height\="240" /> Welche Funktion beschreibt die abgebildete Ortskurve? </p>{
+        = x(t) \= 0.5 m/s t
+	~ x(t) \= 2 m/s t
+	~ x(t) \= 1 m - 1 m/s t
+	~ x(t) \= 3 m + 0.5 m/s t
+	~ x(t) \= 2 m/s t + 2 m
+	~ x(t) \= 1 m - 0.5 m/s t
+	~ x(t) \= 1 m 
+}
+
+// question: 6  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/simple_xt6.png" alt\="" width\="320" height\="240" /> Welche Funktion beschreibt die abgebildete Ortskurve? </p>{
+        = x(t) \= 1 m - 0.5 m/s t
+	~ x(t) \= 2 m/s t
+	~ x(t) \= 1 m - 1 m/s t
+	~ x(t) \= 3 m + 0.5 m/s t
+	~ x(t) \= 0.5 m/s t
+	~ x(t) \= 2 m/s t + 2 m
+	~ x(t) \= 1 m 
+}
+
+// question: 7  name: x-t-Diagramme
+::x-t-Diagramme::[html]<p><img src\="@@PLUGINFILE@@/simple_xt7.png" alt\="" width\="320" height\="240" /> Welche Funktion beschreibt die abgebildete Ortskurve? </p>{
+	= x(t) \= 1 m 
+	~ x(t) \= 2 m/s t
+	~ x(t) \= 1 m - 1 m/s t
+	~ x(t) \= 3 m + 0.5 m/s t
+	~ x(t) \= 0.5 m/s t
+	~ x(t) \= 1 m - 0.5 m/s t
+	~ x(t) \= 2 m/s t + 2 m
+}
+
+
+
+
